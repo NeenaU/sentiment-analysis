@@ -9,10 +9,10 @@ class SentimentAnalysis(object):
     def __init__(self): 
         
         #Keys and tokens from Twitter Developer portal
-        consumerKey = 'LkdUg86X0KIVLw9cmvq1CgdZy'
-        consumerSecret = '66jGHLbMmlPyNdOLC4utsXOw8D7F5Y4m4ge98QkSNAVLyqEMj7'
-        accessToken = '456004005-6IXIKd3E3ntjSjT57INTYqmb5hjThonirsxFBvmz'
-        accessTokenSecret = 'EclZSGVkxuw9NgKtFiJDu2Jo3zlWdWxVxklrn1h4Q4lgM'
+        consumerKey = 'xxxxx'
+        consumerSecret = 'xxxxx'
+        accessToken = 'xxxxx-xxxxx'
+        accessTokenSecret = 'xxxxx'
   
         #Attempt authentication 
         try: 
